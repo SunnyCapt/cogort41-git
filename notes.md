@@ -28,3 +28,4 @@
 # Место для ваших ссылок:
 
 - https://github.com/SunnyCapt/cogort41-git
+- https://github.com/GiantS1oth/Git_Test/tree/main/src/selfWork - Andrii Yershov
