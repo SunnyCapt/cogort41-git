@@ -7,5 +7,7 @@ public class A {
 
         c.printHello();
         b.printWorld();
+
+        System.out.println("I'm in myBestBranch")
     }
 }
