@@ -28,3 +28,33 @@
 # Место для ваших ссылок:
 
 - https://github.com/SunnyCapt/cogort41-git
+
+
+-----
+
+main newBranch
+
+|
+|
+|
+*
+| \
+|  \
+|   \
+|    |
+|    * (закруглил кнопку)
+*    |
+|    |
+|    * (поменял цвет на голубой)
+|   /
+|  / 
+| /
+|/
+|
+* (updated Main.java)
+|
+|
+* (second commit)
+|
+|
+* (init commit)
